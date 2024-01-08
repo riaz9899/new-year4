@@ -1,0 +1,20 @@
+.banner {
+    background-image: url('/images/Banner\ Image.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    color: #fff; 
+    text-align: center;
+    margin: 25px 0px;
+}
+.banner_text {
+    
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); 
+}
